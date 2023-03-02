@@ -1,4 +1,4 @@
-package com.imanuwel.springdemo;
+package com.imanuwel.springdemo.xmlconfiguration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

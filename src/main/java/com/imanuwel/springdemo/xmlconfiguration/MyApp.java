@@ -1,4 +1,4 @@
-package com.imanuwel.springdemo;
+package com.imanuwel.springdemo.xmlconfiguration;
 
 public class MyApp {
     public static void main(String[] args) {
